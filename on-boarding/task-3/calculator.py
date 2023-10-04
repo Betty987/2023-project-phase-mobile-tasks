@@ -1,1 +1,5 @@
-This only computes the square of an integer.
+# calculator.py
+
+def square(x):
+    """Calculate the square of a number."""
+    return x ** 2
